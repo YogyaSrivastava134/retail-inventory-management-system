@@ -1,1 +1,0 @@
-# retail-inventory-management-system
